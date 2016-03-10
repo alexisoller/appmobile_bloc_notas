@@ -1,0 +1,59 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>>
+    <string name="seccion_1">NOTAS</string>
+    <string name="seccion_2">RATING</string>
+    <string name="seccion_3">CAMARA</string>
+    <string name="seccion_4">JASPER</string>
+    <string name="usuario">Usuario</string>
+    <string name="menu_abierto">Menu Abierto</string>
+    <string name="menu_cerrado">Menu Cerrado</string>
+    <string name="fragment1">Fragment 1</string>
+    <string name="fragment2">Fragment 2</string>
+    <string name="fragment3">Fragment 3</string>
+    <string name="app_name">Proyecto_Final</string>
+    <string name="add_nota">Add/Edit nota</string>
+    <string name="ver_nota">Visuaalizacion de la nota</string>
+    <string name="menu_crear">Crear nota</string>
+    <string name="menu_editar">Editar nota</string>
+    <string name="menu_eliminar">Eliminar nota</string>
+    <string name="menu_borrar_todas">Borrar todas</string>
+    <string name="menu_volver">Volver</string>
+    <string name="menu_salir">Salir</string>
+    <string name="acceder_notas">Pulsa en el boton inferior para acceder a las notas</string>
+    <string name="acceder_camara">Pulsa en el boton inferior para acceder a la camara</string>
+    <string name="ver_salir">Para Volver pulsa la opcion en el menu</string>
+    <string name="btnjasper">JASPER REPORT</string>
+    <string name="btnnotas">Ir a Notas</string>
+    <string name="btncamara">Camara</string>
+    <string name="rating">Rating</string>
+    <string name="estilo_de_fuente">Estilo de Fuente</string>
+    <string name="color_de_letra">Color de Letra</string>
+    <string name="tema">Tema</string>
+    <string name="guardar">Guardar</string>
+    <string name="thnegro">Negro</string>
+    <string name="thdefecto">Defecto   </string>
+    <string name="thblanco">Blanco</string>
+    <string name="negrita">Negrita</string>
+    <string name="cursiva">Cursiva</string>
+    <string name="normal">Normal</string>
+    <string name="pararmusica">Parar musica</string>
+    <string name="playmusica">Play musica</string>
+
+    <string-array name="ciclos">
+        <item>DESARROLLO DE INTERFACES</item>
+        <item>SISTEMAS DE GESTIÓN EMPRESARIAL</item>
+        <item>ACCESO A DATOS</item>
+        <item>Programming of Services and Processes</item>
+        <item>Programació Multimèdia i Dispositius Móbils</item>
+    </string-array>
+    <string-array name="letras">
+        <item>Rojo</item>
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Negro</item>
+        <item>Blanco</item>
+    </string-array>
+
+
+</resources>

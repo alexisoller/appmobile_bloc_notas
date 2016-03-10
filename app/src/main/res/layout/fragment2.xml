@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:tag="fragment2"
+    tools:context="net.sgoliver.android.toolbar.Fragment2">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/rating"
+        android:id="@+id/txtrating"
+        android:gravity="center_horizontal"/>
+
+
+    <RatingBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ratingBar"
+        android:layout_gravity="center_horizontal|bottom" />
+
+    <AutoCompleteTextView
+        android:layout_width="318dp"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/autoCompleteTextView"
+        android:layout_gravity="center" />
+
+
+</FrameLayout>
